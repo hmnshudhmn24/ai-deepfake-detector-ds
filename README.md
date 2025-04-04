@@ -25,6 +25,3 @@ python train.py
 ```bash
 python predict.py --image path/to/image.jpg
 ```
-
-## License
-MIT
